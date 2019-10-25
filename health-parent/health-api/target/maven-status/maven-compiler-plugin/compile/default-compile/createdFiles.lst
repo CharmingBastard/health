@@ -1,0 +1,6 @@
+com\hnguigu\health\domain\MemberExample.class
+com\hnguigu\health\domain\MemberExample$Criteria.class
+com\hnguigu\health\service\MemberService.class
+com\hnguigu\health\domain\MemberExample$Criterion.class
+com\hnguigu\health\domain\Member.class
+com\hnguigu\health\domain\MemberExample$GeneratedCriteria.class

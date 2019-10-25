@@ -1,0 +1,3 @@
+com\hnguigu\health\HealthMemberServiceApplication.class
+com\hnguigu\health\mapper\MemberMapper.class
+com\hnguigu\health\service\MemberServiceImpl.class
